@@ -1,0 +1,7 @@
+.mat-list-option[aria-selected='true'] {
+  background: rgba(166, 192, 222, 0.7);
+}
+
+.booked {
+  background: rgba(207, 96, 96, 0.7);
+}
